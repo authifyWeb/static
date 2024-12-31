@@ -1,3 +1,6 @@
+document.addEventListener('DOMContentLoaded', function() {
+  // Your code to run after the DOM is ready
+
 (function authifyWebWidget() {
   // Create the widget container and add it to the page
   const widgetContainer = document.createElement('div');
@@ -53,3 +56,4 @@
     }
   });
 })();
+});
