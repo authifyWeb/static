@@ -1,3 +1,6 @@
+//authifyWeb.com
+//Served from Github Repo: https://github.com/authifyWeb/static
+
 document.addEventListener('DOMContentLoaded', function() {
   // Create the widget container and add it to the page
   const widgetContainer = document.createElement('div');
